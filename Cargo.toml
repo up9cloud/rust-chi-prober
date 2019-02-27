@@ -1,0 +1,8 @@
+[package]
+name = "chi-prober"
+version = "0.1.0"
+authors = ["up9cloud <>"]
+
+[dependencies]
+
+rand = "0.4.0"
